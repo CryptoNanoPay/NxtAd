@@ -1,2 +1,2 @@
-NxtAd API using CryptoNanoPay API
-Shows simple use of the CryptoNanoPay features.
+NxtAd API using CryptoNanoPay API. 
+This shows simple use of the CryptoNanoPay features.
