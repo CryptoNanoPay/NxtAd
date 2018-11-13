@@ -1,2 +1,2 @@
-# TestCaseR1Roulette
-A single java page, like Jone'sVapor, implementing the R1 TestCase Roulette   
+NxtAd API using CryptoNanoPay API
+Shows simple use of the CryptoNanoPay features.
