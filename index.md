@@ -1,37 +1,44 @@
 ## Voici mes infos personnelles
 
-You can use the [editor on GitHub](https://github.com/CryptoNanoPay/NxtAd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Acheter
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2022-01-11T08:23:54.334 -itdOnce/Acheter -t	.1 housse de couette 170x210
+2022-01-11T08:23:54.334 -itdOnce/Acheter -t	.2 housses de couette 160x200
+2022-01-11T08:23:54.334 -itdOnce/Acheter -t	.armoire salle de bains  h=80 l=46 p=40
+2022-01-11T08:23:54.334 -itdOnce/Acheter -t	.cable HDMI
+2022-01-11T08:23:54.334 -itdOnce/Acheter -t	.bluejeans
+2022-01-11T08:23:54.334 -itdOnce/Acheter -t	.headset
+2022-01-11T08:23:54.334 -itdOnce/Acheter -t	.rideaux bureau chambre à coucher
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### A faire
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+2022-01-11T08:23:54.334 -itdWeekly -whenMonday -t	.déchetterie 14:00 - 17:00
+2022-01-11T08:23:54.334 -itdWeekly -whenMonday -t	.nettoyer vitres et portes
+2022-01-11T08:23:54.334 -itdWeekly -whenTuesday -t	.nettoyer combles
+2022-01-11T08:23:54.334 -itdWeekly -whenWednesday -t	.nettoyer chambres à coucher
+2022-01-11T08:23:54.334 -itdWeekly -whenWednesday -t	.déchetterie 09:00 - 12:00
+2022-01-11T08:23:54.334 -itdWeekly -whenThursday -t	.nettoyer bureau
+2022-01-11T08:23:54.334 -itdWeekly -whenFriday -t	.déchetterie 14:00 - 17:00
+2022-01-11T08:23:54.334 -itdWeekly -whenFriday -t	.nettoyer salon-cuisine
+2022-01-11T08:23:54.334 -itdWeekly -whenSaturday -t	.nettoyer toilettes + salle de bains
+2022-01-11T08:23:54.334 -itdWeekly -whenSaturday -t	.déchetterie 14:00 - 17:00
+2022-01-11T08:23:54.334 -itdWeekly -whenSunday -t	.nettoyer terrasse et extérieurs
+2022-01-11T08:23:54.334 -itdOnce/It -t	.create save utility
+2022-01-11T08:23:54.334 -itdOnce/It -t	.p2p network
+2022-01-11T08:23:54.334 -itdOnce/It -t	.store data locally
+2022-01-11T08:23:54.334 -itdOnce/It -t	.store photos on external disk and show album
+2022-01-11T08:23:54.334 -itdOnce/It -t	.satoshiJunior and lost btc accounts...
+2022-01-11T08:23:54.334 -itdOnce/It -t	.open-meteo.com
+2022-01-11T08:23:54.334 -itdOnce/It -t	.peermaps.org
+2022-01-11T08:23:54.334 -itdOnce/Divers -t	.papiers
+2022-01-11T08:23:54.334 -itdOnce/Divers -t	.notaire
+2022-01-11T08:23:54.334 -itdYearly -when0215.0228 -t	.taille des arbres
+2022-01-11T08:23:54.334 -itdYearly -when0215.0228 -t	.taille de la vigne
+2022-01-11T08:23:54.334 -itdYearly -when0601.0715 -t	.commander le bois
+2022-01-11T08:23:54.334 -itdOnce/BricolageEtJardin -t	.graines
+2022-01-11T08:23:54.334 -itdOnce/BricolageEtJardin -t	.tuyau vidange bassin
+2022-01-11T08:23:54.334 -itdOnce/BricolageEtJardin -t	.ruche
+2022-01-11T08:23:54.334 -itdOnce/BricolageEtJardin -t	.moustiquaire
+2022-01-11T08:23:54.334 -itdOnce/BricolageEtJardin -t	.décharge lundi 14:00-17:00  mercredi 09:00-12:00  vendredi 14:00-17:00	samedi 14:00-17:00
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CryptoNanoPay/NxtAd/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
